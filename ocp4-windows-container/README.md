@@ -6,7 +6,6 @@
 02 - Windows MachineSets for OCP cluster 
 03 - Build sample Windows Web Server on OCP
 ```
-
 ## Why Containerize Traditional Windows Apps?
 1. Support the public and hybrid-cloud strategy 
 2. Reduce infrastructure and management costs for Windows application 
