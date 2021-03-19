@@ -2,7 +2,6 @@
 
 ## Table of Contents
 ```
-Pre-requisites
 01 - How to install Windows Machine Config Operator 
 02 - Windows MachineSets for OCP cluster 
 03 - Build sample Windows Web Server on OCP
