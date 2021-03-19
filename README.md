@@ -6,7 +6,7 @@
 2. [Openshift 4 with Windows Containers](https://github.com/angelavuong/openshift/tree/main/ocp4-windows-container)
 
 ## Red Hat Labs
-1. [Getting Started with Openshift for Developers)[https://github.com/openshift-labs/starter-guides#deploying-the-lab-guides-only]
+1. [Getting Started with Openshift for Developers](https://github.com/openshift-labs/starter-guides#deploying-the-lab-guides-only)
 
 
 ## Learn Openshift 
