@@ -3,8 +3,9 @@
 ## Table of Contents
 ```
 Pre-requisites
-Demo #1 - To scale machines for OCP cluster 
-Demo #2 - To build simple Windows Web Server on OCP
+01 - How to install Windows Machine Config Operator 
+02 - Windows MachineSets for OCP cluster 
+03 - Build sample Windows Web Server on OCP
 Resources for OCP and Windows Containers
 ```
 
