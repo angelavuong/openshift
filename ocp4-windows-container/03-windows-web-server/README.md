@@ -40,4 +40,3 @@ Install the Windows Server 2019 image via docker:
 ### Build Windows Server 2019 container using OCP
 
 
-## Resources for OCP and Windows Containers
