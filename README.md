@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Openshift 4 with Couchbase](https://github.com/angelavuong/openshift/tree/main/openshift_couchbase)
-2. Openshift 4 with Windows Containers
+2. [Openshift 4 with Windows Containers](https://github.com/angelavuong/openshift/tree/main/ocp4-windows-container)
 
 ## Learn Openshift 
 - [Red Hat Openshift - learn.redhat.com](https://learn.openshift.com/)
